@@ -1,3 +1,10 @@
+//Author: Siladittya Manna
+//Date: 04/01/2017
+//Code for calculation of Convolution of two functions
+//Calls python file ConvolutionPlot.py and plots via Pylab
+//Also plots using characters
+
+
 #include <stdio.h>
 #include <math.h>
 #include <conio.h>
