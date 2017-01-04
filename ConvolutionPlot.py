@@ -1,3 +1,7 @@
+#Author: Siladittya Manna
+#Date: 04/01/2017
+#Called from Convolution.c
+#Plots via Pylab
 import pylab as plt
 with open("C:\Users\Siladittya\Desktop\ConvolvedData.txt",'r') as f:
     data = map(float,f.read().split())
